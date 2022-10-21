@@ -9,5 +9,5 @@ repositories {
 
 dependencies {
     implementation 'org.bytedeco:javacpp:1.5.7'
-    implementation 'icu.ootime:jwintoast:0.1'
+    implementation 'de.mobanisto:wintoast:0.1.0'
 }
